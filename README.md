@@ -76,7 +76,8 @@ AI occasionally speaks to you using browser voice synthesis – motivating, remi
 
 ![Landing](https://github.com/ronitrai27/NeuraTwin-2.0/blob/main/frontend/public/show1.png?raw=true)
 ![Login](https://github.com/ronitrai27/NeuraTwin-2.0/blob/main/frontend/public/shows2.png?raw=true)
-![Home](https://github.com/ronitrai27/NeuraTwin-2.0/blob/main/frontend/public/show3.png?raw=true)
+<img width="1918" height="881" alt="Screenshot 2025-08-22 160757" src="https://github.com/user-attachments/assets/9dab628a-73e6-4611-8b4d-3bba50cd1d3c" />
+
 
 
 ---
@@ -103,4 +104,5 @@ It’s **your future self, living beside you.**
 🔗 [Try NeuraTwin Now](https://www.ronitrox.xyz)
 
 ---
+
 
